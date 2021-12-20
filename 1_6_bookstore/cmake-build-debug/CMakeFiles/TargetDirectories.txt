@@ -1,0 +1,3 @@
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/cmake-build-debug/CMakeFiles/1_6_bookstore.dir

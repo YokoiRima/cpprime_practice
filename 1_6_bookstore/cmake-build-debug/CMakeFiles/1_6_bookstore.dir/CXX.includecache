@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/Sales_item.h
+iostream
+-
+string
+-
+
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/main.cpp
+iostream
+-
+Sales_item.h
+/Users/aki/Desktop/cpprime_practice/1_6_bookstore/Sales_item.h
+
