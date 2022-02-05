@@ -1,0 +1,3 @@
+/Users/aki/Desktop/cpprime_practice/fake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aki/Desktop/cpprime_practice/fake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aki/Desktop/cpprime_practice/fake/cmake-build-debug/CMakeFiles/fake.dir
